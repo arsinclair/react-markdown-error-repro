@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "gatsby": "^3.15.0",
+        "react": "^17.0.2",
+        "react-markdown": "^8.0.7"
+    },
+    "scripts": {
+        "clean": "gatsby clean",
+        "serve": "gatsby serve",
+        "build": "gatsby build"
+    }
+}
